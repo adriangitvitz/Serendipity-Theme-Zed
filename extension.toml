@@ -1,7 +1,7 @@
-id = "serendipity"
-name = "Serendipity Themes"
+id = "serendipityblack"
+name = "Serendipity Themes Black"
 schema_version = 1
 version = "0.0.8"
 authors = ["Nguyen Dang Vinh <meocoder@gmail.com>"]
 description = "Relaxed, gentle and modern | Serendipity theme for Zed"
-repository = "https://github.com/meocoder31099/Serendipity-Theme-Zed"
+repository = "https://github.com/adrianvgitvitz/Serendipity-Theme-Zed"
